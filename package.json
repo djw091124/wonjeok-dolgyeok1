@@ -1,0 +1,10 @@
+{
+  "name": "wonjeok-dolgyeok",
+  "version": "4.7.2",
+  "private": true,
+  "description": "원격돌격 - 원 전투 게임",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
